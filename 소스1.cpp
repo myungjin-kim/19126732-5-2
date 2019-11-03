@@ -6,8 +6,8 @@ int main()
 	double a;
 	double b = 2.204623;
 
-	printf("¹«°Ô(kg)ÀÔ·Â: ");
+	printf("ë¬´ê²Œ(kg)ìž…ë ¥: ");
 	scanf("%lf", &a); 
 
-	printf("%.3fÆÄ¿îµå", a * b);
+	printf("%.3f", a * b);
 }
